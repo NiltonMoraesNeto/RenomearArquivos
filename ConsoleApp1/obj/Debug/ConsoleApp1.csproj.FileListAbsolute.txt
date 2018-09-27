@@ -1,0 +1,7 @@
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Marina\Desktop\NILTON\Sistemas\Clientes\Renomear Arquivos_CMD\RenmearArquivos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
